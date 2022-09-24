@@ -1,5 +1,9 @@
 #Diseñar una funcion que, dada una lista de cadenas, devuelva la cadena mas larga.
+oracion=
+mayor=
+palabra=
 def verif(oracion, mayor, palabra)
 TODO: Escrbir el codigo desde aqui
+
 
 return mayor #cadenas mas larga
