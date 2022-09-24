@@ -1,0 +1,4 @@
+#Diseñe una función que determine si un número es primo (devolviendo True) o no (devolviendo False).
+def es_primo(n)
+ #TODO:escriba el codigo desde aqui
+ 
