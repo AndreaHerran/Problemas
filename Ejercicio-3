@@ -1,4 +1,7 @@
 #Diseñe una función que determine si un número es primo (devolviendo True) o no (devolviendo False).
+'''
+es un ejercicio propuesto en clase, tanto en los ejercicio como en el parcial, es necesario plantear otro ejercicio
+'''
 def es_primo(n)
  #TODO:escriba el codigo desde aqui
  
