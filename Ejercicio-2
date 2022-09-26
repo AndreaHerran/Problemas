@@ -1,4 +1,7 @@
 #Diseñar una funcion que, dada una lista de cadenas, devuelva la cadena mas larga.
+'''
+incluir documentación
+'''
 oracion=
 mayor=
 palabra=
