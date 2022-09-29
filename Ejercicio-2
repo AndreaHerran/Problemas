@@ -4,8 +4,11 @@ mayor=
 palabra=
 def verif(oracion, mayor, palabra)
 '''
-Se buscara la cadena mas larga, debe de ser una palabra 
-:return: mayor # cadenas mas larga
+Se buscara la cadena mas larga, debe de ser una palabra
+oracion: palabra inicial
+mayor: selecciona la palabra con mayor letras
+palabra:lo que la palabra cumple
+return: mayor # cadenas mas larga
 '''
 
 
