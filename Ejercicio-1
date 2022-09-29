@@ -2,6 +2,6 @@
 excepto si es tambien divisible por 400, en cuyo caso es bisiesto.
 def dias(año):
 '''
-Se realiza los de debidos proceso matematicos para saber cauntos dias tiene el año.
-:param año: el año que se desea determinar 
+funcion que realiza los de debidos proceso matematicos para saber cauntos dias tiene el año.
+año: el año que se desea determinar 
 '''
