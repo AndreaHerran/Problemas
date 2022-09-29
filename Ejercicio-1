@@ -1,6 +1,7 @@
 #Defina una funcion que devuelva el numero de dıas que tiene un año determinado. Teniendo en cuenta que un año es bisiesto si es divisible por 4 y no divisible por 100, 
 excepto si es tambien divisible por 400, en cuyo caso es bisiesto.
 def dias(año):
-#TODO: escriba aqui el codigo
-
-return año #año que se desea saber cuantos dias tiene
+'''
+Se realiza los de debidos proceso matematicos para saber cauntos dias tiene el año.
+:param año: el año que se desea determinar 
+'''
