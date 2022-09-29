@@ -1,4 +1,19 @@
-#Escribir una función que simule una calculadora científica que permita calcular el seno, coseno, tangente, exponencial y logaritmo neperiano. 
+#Escribir una función que simule una calculadora científica que permita calcular el seno, coseno, tangente, exponencial y logaritmp. 
 La función preguntará al usuario el valor y la función a aplicar, y mostrará por pantalla una tabla con los enteros de 1 al valor introducido 
 y el resultado de aplicar la función a esos enteros.
- 
+
+ def funcion(f,n) 
+ '''
+    Función que aplica una función a los enteros desde 1 hasta n.
+        f: Es una función que recibe un número real y devuelve otro.
+        n: Es un número entero positivo.
+    return resultado #Un diccionario con los pares i:f(i) para cada valor entero i de 1 a n.
+'''
+def calculadora()
+'''
+    Función que aplica una función seleccionada por el usuario a la lista de enteros desde 1 hasta n.Imprime por pantalla una tabla con la 
+    secuencia de enteros y el resultado de aplicarles la función introducida.
+    Parámetros:
+        f: Es una cadena con la función a aplicar .
+        n: Es un entero positivo.
+    '''
