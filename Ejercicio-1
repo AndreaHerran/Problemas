@@ -3,5 +3,5 @@ excepto si es tambien divisible por 400, en cuyo caso es bisiesto.
 def dias(año):
 '''
 funcion que realiza los de debidos proceso matematicos para saber cauntos dias tiene el año.
-año: el año que se desea determinar 
+año: el año que se desea determinar.
 '''
